@@ -12,4 +12,4 @@ There is nothing to build; the files are read as they are.
 
 ## Licence
 
-Each model's licence is in its JSON record. The repository adds none of its own.
+CC BY 4.0. See [LICENSE](LICENSE). Each model's licence is in its JSON record.
